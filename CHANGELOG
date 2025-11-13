@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.3 - 2025-11-13
+
+- test: trigger auto-tag
+
+
 ## v1.0.2 - 2025-11-13
 
 - ci: adicionar auto-tag workflow
