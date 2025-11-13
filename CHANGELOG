@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.2 - 2025-11-13
+
+- ci: adicionar auto-tag workflow
+- adicionado arquivo teste
+
+
 ## v1.0.1 - 2025-11-13
 
 - Mesclar origem/desenvolver em desenvolver
