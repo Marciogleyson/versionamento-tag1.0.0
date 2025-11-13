@@ -1,0 +1,12 @@
+{
+  "name": "versionamento-tag",
+  "version": "1.0.0",
+  "description": "Sistema de versionamento automático",
+  "scripts": {
+    "dev": "echo 'Development'",
+    "build": "echo 'Build'",
+    "test": "echo 'Test' && exit 0"
+  },
+  "author": "Marciogleyson",
+  "license": "MIT"
+}
